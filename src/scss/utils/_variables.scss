@@ -1,0 +1,25 @@
+$font-color: #000000;
+$primary-color: #ccc;
+
+$gray-color: #999;
+$red-color: #d83535;
+$white-color: #fff;
+$black-color: #000;
+
+$transition-speed: 300ms;
+$transition-speed-2x: $transition-speed * 2;
+$transition-speed-3x: $transition-speed * 3;
+$transition-speed-4x: $transition-speed * 4;
+$transition-speed-6x: $transition-speed * 6;
+$transition-speed-8x: $transition-speed * 8;
+$transition-speed-10x: $transition-speed * 10;
+$transition-speed-12x: $transition-speed * 12;
+$ease: ease-in-out;
+
+$message-speed: 400ms;
+
+$screen-mobile-s: 375;
+$screen-mobile: 568;
+$screen-tablet: 767;
+$screen-desktop: 992;
+$screen-wide: 1260;
