@@ -29,7 +29,7 @@ Vue.component('Loader', Loader);
 Vue.component('Paginate', Paginate);
 
 firebase.initializeApp({
-  apiKey: "AIzaSyAKoRLad8owRyWWKBtkUyLnu7mAzLL2TEU",
+  apiKey: "",
   authDomain: "vue-crm-b1441.firebaseapp.com",
   databaseURL: "https://vue-crm-b1441.firebaseio.com",
   projectId: "vue-crm-b1441",
